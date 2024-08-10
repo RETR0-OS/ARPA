@@ -1,0 +1,2118 @@
+Prompt,Intent,
+Hi there Can you tell me who you are,introduce_yourself,
+Hello Who am I talking to,introduce_yourself,
+Good day What's your name,introduce_yourself,
+Can you introduce yourself,introduce_yourself,
+Who are you,introduce_yourself,
+Can you tell me about yourself,introduce_yourself,
+Please introduce yourself,introduce_yourself,
+What's your name,introduce_yourself,
+Who am I chatting with,introduce_yourself,
+Tell me about you,introduce_yourself,
+I need some information from the web,web_search,
+Can you search the web for me,web_search,
+Find this information online,web_search,
+Can you look this up on the internet,web_search,
+Search the web for this please,web_search,
+Can you get me the latest news,web_search,
+I need to find some information online,web_search,
+Search for this online,web_search,
+Can you find this on the web,web_search,
+Look up this info on the internet,web_search,
+Search Wikipedia for this,wiki_search,
+Can you look this up on Wikipedia,wiki_search,
+I need some information from Wikipedia,wiki_search,
+Find this on Wikipedia please,wiki_search,
+Can you get me details from Wikipedia,wiki_search,
+Search for this on Wikipedia,wiki_search,
+Look up this on Wikipedia,wiki_search,
+Can you find this on Wikipedia,wiki_search,
+Get me this information from Wikipedia,wiki_search,
+Can you help me with Wikipedia search,wiki_search,
+Goodbye,exit,
+See you later,exit,
+Talk to you later,exit,
+Bye for now,exit,
+Take care, bye,exit
+Catch you later,exit,
+Goodbye, see you soon,exit
+Farewell,exit,
+Talk to you soon,exit,
+Bye, have a good day,exit
+Hey What's your name,introduce_yourself,
+Hello, who are you,introduce_yourself
+Can you introduce yourself to me,introduce_yourself,
+What's your name again,introduce_yourself,
+Who is this,introduce_yourself,
+May I know who I'm talking to,introduce_yourself,
+Tell me who you are,introduce_yourself,
+I'd like to know your name,introduce_yourself,
+Can you tell me your name,introduce_yourself,
+Can you give me your name,introduce_yourself,
+Can you find this on the web,web_search,
+I need some info from the internet,web_search,
+Look this up online,web_search,
+Search for this info online,web_search,
+Get this information from the web,web_search,
+Find this on the internet,web_search,
+I need to search the web for something,web_search,
+Can you get this info from the internet,web_search,
+Look up this information online,web_search,
+Search the internet for this,web_search,
+Find this info on Wikipedia,wiki_search,
+Look this up on Wikipedia,wiki_search,
+I need to get some details from Wikipedia,wiki_search,
+Search for this on Wikipedia, please,wiki_search
+Can you get details from Wikipedia,wiki_search,
+I need to search Wikipedia for something,wiki_search,
+Can you look up this on Wikipedia,wiki_search,
+Find details about this on Wikipedia,wiki_search,
+Get info from Wikipedia on this,wiki_search,
+Can you find details on Wikipedia,wiki_search,
+See you,exit,
+Later,exit,
+Goodbye for now,exit,
+See you later, bye,exit
+Talk to you later, bye,exit
+Take care, see you soon,exit
+Goodbye and take care,exit,
+Catch you later, bye,exit
+Bye for now, take care,exit
+See you soon,exit,
+Your name,introduce_yourself,
+Identity,introduce_yourself,
+Who,introduce_yourself,
+Your introduction,introduce_yourself,
+Introduction,introduce_yourself,
+Tell about you,introduce_yourself,
+Info about you,introduce_yourself,
+Your details,introduce_yourself,
+Explain who you are,introduce_yourself,
+Describe yourself,introduce_yourself,
+Find info,web_search,
+Search info,web_search,
+Look up info,web_search,
+Get info,web_search,
+Web search,web_search,
+Online search,web_search,
+Find details,web_search,
+Search online,web_search,
+Look online,web_search,
+Search internet,web_search,
+Wiki search,wiki_search,
+Search Wikipedia,wiki_search,
+Wiki lookup,wiki_search,
+Wikipedia info,wiki_search,
+Get Wikipedia data,wiki_search,
+Wiki details,wiki_search,
+Lookup Wikipedia,wiki_search,
+Search Wiki,wiki_search,
+Find Wikipedia info,wiki_search,
+Get Wiki details,wiki_search,
+Bye,exit,
+Goodbye,exit,
+See you,exit,
+Later,exit,
+Farewell,exit,
+Bye now,exit,
+Goodbye now,exit,
+Catch you,exit,
+Take care,exit,
+Talk later,exit,
+Who is ARPA,introduce_yourself,
+Identify as ARPA,introduce_yourself,
+Are you ARPA,introduce_yourself,
+Info on ARPA,introduce_yourself,
+ARPA introduction,introduce_yourself,
+ARPA details,introduce_yourself,
+Describe ARPA,introduce_yourself,
+ARPA identity,introduce_yourself,
+Who is ARPA assistant,introduce_yourself,
+Introduce ARPA,introduce_yourself,
+Search Apple,web_search,
+Find Google,web_search,
+Lookup Amazon,web_search,
+Get Facebook info,web_search,
+Search Microsoft,web_search,
+Find Tesla,web_search,
+Lookup Netflix,web_search,
+Search Wikipedia,web_search,
+Find NASA info,web_search,
+Search WHO,web_search,
+Wiki Apple,wiki_search,
+Wiki Google,wiki_search,
+Wikipedia Amazon,wiki_search,
+Get Facebook Wiki,wiki_search,
+Wiki Microsoft,wiki_search,
+Find Tesla Wiki,wiki_search,
+Lookup Netflix Wiki,wiki_search,
+Wiki NASA,wiki_search,
+Wikipedia WHO,wiki_search,
+Find Wiki info,wiki_search,
+See you ARPA,exit,
+Bye ARPA,exit,
+Goodbye ARPA,exit,
+Later ARPA,exit,
+Farewell ARPA,exit,
+Catch you ARPA,exit,
+Take care ARPA,exit,
+Talk later ARPA,exit,
+See you later ARPA,exit,
+Goodbye now ARPA,exit,
+Who is ARPA bot,introduce_yourself,
+Identify as ARPA bot,introduce_yourself,
+Are you ARPA bot,introduce_yourself,
+Info on ARPA bot,introduce_yourself,
+ARPA bot introduction,introduce_yourself,
+ARPA bot details,introduce_yourself,
+Describe ARPA bot,introduce_yourself,
+ARPA bot identity,introduce_yourself,
+Who is ARPA virtual assistant,introduce_yourself,
+Introduce ARPA bot,introduce_yourself,
+Search IBM,web_search,
+Find Intel,web_search,
+Lookup Samsung,web_search,
+Get Sony info,web_search,
+Search LG,web_search,
+Find Dell,web_search,
+Lookup HP,web_search,
+Search Xiaomi,web_search,
+Find Qualcomm info,web_search,
+Search AMD,web_search,
+What do I call you,introduce_yourself,
+Give your name and role,introduce_yourself,
+Your name and purpose,introduce_yourself,
+Who is this virtual assistant,introduce_yourself,
+Tell your function and name,introduce_yourself,
+What's the name you go by,introduce_yourself,
+Name and details, please,introduce_yourself
+Explain your purpose and name,introduce_yourself,
+Introduce yourself briefly,introduce_yourself,
+Tell your designation,introduce_yourself,
+Find latest news online,web_search,
+Search for trending topics,web_search,
+Locate recent updates online,web_search,
+Get current events online,web_search,
+Find information about movies,web_search,
+Search for weather updates,web_search,
+Locate tech news online,web_search,
+Get recent sports scores,web_search,
+Find latest music releases,web_search,
+Search for restaurant reviews,web_search,
+Wiki search about Einstein,wiki_search,
+Search Wikipedia for Tesla,wiki_search,
+Look up Wiki details Tesla,wiki_search,
+Find Einstein information Wikipedia,wiki_search,
+Search for Tesla on Wiki,wiki_search,
+Wiki details on Einstein,wiki_search,
+Search Wikipedia for Newton,wiki_search,
+Look up Wiki details Newton,wiki_search,
+Find Newton information Wikipedia,wiki_search,
+Search for Newton on Wiki,wiki_search,
+Goodbye, have a good day,exit
+Farewell, take care now,exit
+Goodbye, see you soon,exit
+See you next time,exit,
+Catch you later, take care,exit
+Goodbye, stay safe,exit
+Later, have a good one,exit
+Farewell, talk soon,exit
+Goodbye, until next time,exit
+Take care, see you soon,exit
+ARPA, what is your name,introduce_yourself
+ARPA, tell your purpose,introduce_yourself
+Who is ARPA the assistant,introduce_yourself,
+Tell about ARPA the bot,introduce_yourself,
+ARPA, explain your role,introduce_yourself
+ARPA, what's your function,introduce_yourself
+ARPA, introduce yourself,introduce_yourself
+Who am I speaking with ARPA,introduce_yourself,
+Tell me about ARPA,introduce_yourself,
+ARPA, give your details,introduce_yourself
+Search for Apple stock price,web_search,
+Find Google latest news,web_search,
+Locate Amazon product info,web_search,
+Get Facebook updates online,web_search,
+Search Microsoft earnings report,web_search,
+Find Tesla news online,web_search,
+Locate Netflix series info,web_search,
+Get NASA space mission updates,web_search,
+Search WHO health guidelines,web_search,
+Find IBM technology news,web_search,
+Wiki search Apple company,wiki_search,
+Look up Google history on Wiki,wiki_search,
+Search Amazon business model on Wiki,wiki_search,
+Find Facebook founder Wikipedia,wiki_search,
+Wiki details on Microsoft,wiki_search,
+Search for Tesla founder on Wiki,wiki_search,
+Look up Netflix series on Wiki,wiki_search,
+Wiki information on NASA missions,wiki_search,
+Search WHO pandemic response on Wiki,wiki_search,
+Find IBM history Wikipedia,wiki_search,
+See you later, ARPA,exit
+Goodbye ARPA, take care,exit
+Catch you later ARPA,exit,
+Farewell ARPA, talk soon,exit
+See you next time ARPA,exit,
+Goodbye, ARPA,exit
+Later ARPA, take care,exit
+Farewell ARPA, have a good day,exit
+Catch you later, ARPA,exit
+Goodbye ARPA, stay safe,exit
+Who is ARPA virtual assistant,introduce_yourself,
+ARPA, give your intro,introduce_yourself
+Explain ARPA's role and name,introduce_yourself,
+ARPA, describe your function,introduce_yourself
+Who is ARPA bot assistant,introduce_yourself,
+Tell about ARPA bot,introduce_yourself,
+ARPA, what's your job,introduce_yourself
+Identify yourself as ARPA,introduce_yourself,
+ARPA, your name and role,introduce_yourself
+Explain ARPA's function,introduce_yourself,
+Search for Intel market share,web_search,
+Find Samsung latest products,web_search,
+Locate Sony entertainment news,web_search,
+Get LG electronics updates,web_search,
+Search Dell new releases,web_search,
+Find HP laptop reviews,web_search,
+Locate Xiaomi smartphone news,web_search,
+Get Qualcomm chip advancements,web_search,
+Search AMD processor news,web_search,
+Find Intel technology updates,web_search,
+Can you provide your introduction,introduce_yourself,
+Give me details about yourself,introduce_yourself,
+Who exactly are you,introduce_yourself,
+Explain your identity,introduce_yourself,
+Can you tell me about you,introduce_yourself,
+I need to know who you are,introduce_yourself,
+Give your introduction,introduce_yourself,
+Describe your identity,introduce_yourself,
+Give me your details,introduce_yourself,
+Please provide your introduction,introduce_yourself,
+I need you to search online,web_search,
+Find information on the web,web_search,
+Look up details on the internet,web_search,
+Search for this information online,web_search,
+Get data from the web,web_search,
+Can you find this info online,web_search,
+Please search on the internet,web_search,
+Find me information on the web,web_search,
+Get details from online,web_search,
+Search for this data on the internet,web_search,
+Look up details on Wikipedia,wiki_search,
+Search for information on Wikipedia,wiki_search,
+Find this info on Wikipedia,wiki_search,
+Get details from Wikipedia,wiki_search,
+Can you find this on Wikipedia,wiki_search,
+Please search Wikipedia for this,wiki_search,
+Look up information on Wikipedia,wiki_search,
+Find details on Wikipedia,wiki_search,
+Search for this on Wikipedia,wiki_search,
+Get information from Wikipedia,wiki_search,
+Goodbye for now ARPA,exit,
+See you next time ARPA,exit,
+Take care ARPA, goodbye,exit
+Catch you later ARPA,exit,
+Goodbye ARPA, talk later,exit
+See you soon ARPA,exit,
+Farewell ARPA, goodbye,exit
+Talk to you later ARPA,exit,
+Goodbye ARPA, take care,exit
+See you around ARPA,exit,
+Who is this assistant,introduce_yourself,
+Please introduce ARPA,introduce_yourself,
+Can you explain who you are,introduce_yourself,
+Tell me who ARPA is,introduce_yourself,
+Who exactly is ARPA,introduce_yourself,
+Explain your role as ARPA,introduce_yourself,
+Give an introduction about ARPA,introduce_yourself,
+Can you tell me who ARPA is,introduce_yourself,
+Please describe ARPA,introduce_yourself,
+Who are you as ARPA,introduce_yourself,
+Find information on Apple,web_search,
+Search for data about Google,web_search,
+Look up details on Amazon,web_search,
+Get information on Facebook,web_search,
+Find details about Microsoft,web_search,
+Search the web for Tesla,web_search,
+Look up data on Netflix,web_search,
+Find information on NASA,web_search,
+Search for info on WHO,web_search,
+Get details on IBM,web_search,
+Find details on Apple from Wikipedia,wiki_search,
+Search for Google on Wikipedia,wiki_search,
+Look up Amazon on Wikipedia,wiki_search,
+Get details about Facebook on Wikipedia,wiki_search,
+Find Microsoft on Wikipedia,wiki_search,
+Search Wikipedia for Tesla,wiki_search,
+Look up Netflix on Wikipedia,wiki_search,
+Find information about NASA on Wikipedia,wiki_search,
+Search WHO on Wikipedia,wiki_search,
+Get details about IBM on Wikipedia,wiki_search,
+Goodbye ARPA, talk to you soon,exit
+See you later ARPA, take care,exit
+Talk to you next time ARPA,exit,
+Goodbye ARPA, catch you later,exit
+Take care ARPA, see you soon,exit
+Goodbye ARPA, see you around,exit
+Catch you later ARPA, take care,exit
+See you soon ARPA, goodbye,exit
+Goodbye ARPA, talk to you later,exit
+Take care ARPA, talk later,exit
+Can you introduce yourself to me,introduce_yourself,
+Give me your introduction details,introduce_yourself,
+Tell me your name and role,introduce_yourself,
+Who exactly are you ARPA,introduce_yourself,
+Please describe your identity,introduce_yourself,
+Give an introduction of yourself,introduce_yourself,
+Explain who you are as ARPA,introduce_yourself,
+Describe yourself to me,introduce_yourself,
+Give details about who you are,introduce_yourself,
+Tell me about your identity,introduce_yourself,
+Search for details about Apple,web_search,
+Find information online about Google,web_search,
+Look up data on Amazon website,web_search,
+Get details from web on Facebook,web_search,
+Find information about Microsoft,web_search,
+Search online for Tesla information,web_search,
+Look up Netflix details on web,web_search,
+Find NASA data from internet,web_search,
+Search the web for WHO information,web_search,
+Get details about IBM online,web_search,
+Look up Apple information on Wikipedia,wiki_search,
+Find Google details on Wikipedia,wiki_search,
+Search for Amazon on Wikipedia,wiki_search,
+Get Facebook information from Wikipedia,wiki_search,
+Find Microsoft data on Wikipedia,wiki_search,
+Look up Tesla on Wikipedia,wiki_search,
+Search Netflix details on Wikipedia,wiki_search,
+Get NASA information from Wikipedia,wiki_search,
+Find WHO data on Wikipedia,wiki_search,
+Look up IBM details on Wikipedia,wiki_search,
+Goodbye ARPA, have a great day,exit
+See you ARPA, take care now,exit
+Talk to you later ARPA, bye,exit
+Goodbye ARPA, see you next time,exit
+Catch you later ARPA, goodbye,exit
+Take care ARPA, talk soon,exit
+Goodbye ARPA, see you again,exit
+See you later ARPA, farewell,exit
+Talk to you later ARPA, take care,exit
+Goodbye ARPA, have a nice day,exit
+Can you introduce yourself to me now,introduce_yourself,
+Give me your introduction details please,introduce_yourself,
+Tell me your name and role ARPA,introduce_yourself,
+Who exactly are you ARPA assistant,introduce_yourself,
+Please describe your identity ARPA,introduce_yourself,
+Give an introduction of yourself ARPA,introduce_yourself,
+Explain who you are as ARPA assistant,introduce_yourself,
+Describe yourself to me ARPA,introduce_yourself,
+Give details about who you are ARPA,introduce_yourself,
+Tell me about your identity ARPA,introduce_yourself,
+Search for details about Apple online,web_search,
+Find information online about Google now,web_search,
+Look up data on Amazon website ARPA,web_search,
+Get details from web on Facebook ARPA,web_search,
+Find information about Microsoft ARPA,web_search,
+Search online for Tesla information ARPA,web_search,
+Look up Netflix details on web ARPA,web_search,
+Find NASA data from internet ARPA,web_search,
+Search the web for WHO information ARPA,web_search,
+Get details about IBM online ARPA,web_search,
+Look up Apple information on Wikipedia ARPA,wiki_search,
+Find Google details on Wikipedia ARPA,wiki_search,
+Search for Amazon on Wikipedia ARPA,wiki_search,
+Get Facebook information from Wikipedia ARPA,wiki_search,
+Find Microsoft data on Wikipedia ARPA,wiki_search,
+Look up Tesla on Wikipedia ARPA,wiki_search,
+Search Netflix details on Wikipedia ARPA,wiki_search,
+Get NASA information from Wikipedia ARPA,wiki_search,
+Find WHO data on Wikipedia ARPA,wiki_search,
+Look up IBM details on Wikipedia ARPA,wiki_search,
+Goodbye ARPA, have a great day now,exit
+See you ARPA, take care now bye,exit
+Talk to you later ARPA, bye now,exit
+Goodbye ARPA, see you next time now,exit
+Catch you later ARPA, goodbye now,exit
+Take care ARPA, talk soon bye,exit
+Goodbye ARPA, see you again soon,exit
+See you later ARPA, farewell now,exit
+Talk to you later ARPA, take care bye,exit
+Goodbye ARPA, have a nice day now,exit
+Greetings ARPA chatbot,introduce_yourself,
+Hey ARPA,introduce_yourself,
+Hello ARPA bot,introduce_yourself,
+Hi ARPA,introduce_yourself,
+Hey there ARPA chatbot,introduce_yourself,
+Hello ARPA, how,introduce_yourself
+Hi ARPA bot, nice meet,introduce_yourself
+Hey ARPA, what's up,introduce_yourself
+Hello ARPA chatbot, how's going,introduce_yourself
+Hi ARPA, how help,introduce_yourself
+Greetings,introduce_yourself,
+Hey,introduce_yourself,
+Hello,introduce_yourself,
+Hi,introduce_yourself,
+Hey ARPA, good see,introduce_yourself
+Hello ARPA bot, it's nice talk,introduce_yourself
+Hi ARPA chatbot, how I assist today,introduce_yourself
+Hey ARPA, nice meet,introduce_yourself
+Hello ARPA, what's mind,introduce_yourself
+Hi,introduce_yourself,
+Greetings ARPA, how,introduce_yourself
+Hey ARPA bot, how I help,introduce_yourself
+Hello ARPA chatbot, how I assist today,introduce_yourself
+Hi ARPA, good see online,introduce_yourself
+Hey ARPA, how's day going,introduce_yourself
+Hello ARPA bot, nice chat,introduce_yourself
+Hi ARPA chatbot, what's new,introduce_yourself
+Hey there,introduce_yourself,
+Greetings ARPA, what's up,introduce_yourself
+Hello ARPA, nice meet,introduce_yourself
+Hi ARPA bot, how I assist,introduce_yourself
+Hey ARPA, how,introduce_yourself
+Hello ARPA chatbot, it's good see,introduce_yourself
+Hi ARPA, how's everything,introduce_yourself
+Hey ARPA bot, what's going,introduce_yourself
+Hello ARPA, how I help today,introduce_yourself
+Hi ARPA chatbot, nice talk,introduce_yourself
+Hey there ARPA, how things,introduce_yourself
+Greetings ARPA, how I assist,introduce_yourself
+Hello ARPA bot, how's day,introduce_yourself
+Hi ARPA, nice see,introduce_yourself
+Hey ARPA chatbot, what's up,introduce_yourself
+Hello ARPA, how I help,introduce_yourself
+Hi ARPA bot, it's good chat,introduce_yourself
+Hey ARPA, what's new,introduce_yourself
+Hello ARPA chatbot, how I assist,introduce_yourself
+Hi ARPA, good talk,introduce_yourself
+Hey ARPA bot, how's going,introduce_yourself
+Hello ARPA, nice meet,introduce_yourself
+Hi ARPA chatbot, how I assist,introduce_yourself
+Hey there ARPA, how today,introduce_yourself
+Greetings ARPA, how's everything,introduce_yourself
+Hello ARPA bot, what's mind,introduce_yourself
+Hi ARPA, it's good see online,introduce_yourself
+Greetings ARPA,introduce_yourself,
+Hey ARPA,introduce_yourself,
+Hello ARPA,introduce_yourself,
+Hi ARPA,introduce_yourself,
+Hey there ARPA,introduce_yourself,
+Hello ARPA, how,introduce_yourself
+Hi ARPA,introduce_yourself,
+Hey ARPA, what's up,introduce_yourself
+Hello ARPA, how's,introduce_yourself
+Hi ARPA, help,introduce_yourself
+Greetings,introduce_yourself,
+Hey,introduce_yourself,
+Hello,introduce_yourself,
+Hi,introduce_yourself,
+Hey ARPA, see,introduce_yourself
+Hello ARPA, talk,introduce_yourself
+Hi ARPA, assist,introduce_yourself
+Hey ARPA, meet,introduce_yourself
+Hello ARPA, mind,introduce_yourself
+Hi,introduce_yourself,
+Greetings ARPA, how,introduce_yourself
+Hey ARPA, help,introduce_yourself
+Hello ARPA, assist,introduce_yourself
+Hi ARPA, online,introduce_yourself
+Hey ARPA, day,introduce_yourself
+Hello ARPA, chat,introduce_yourself
+Hi ARPA, new,introduce_yourself
+Hey there,introduce_yourself,
+Greetings ARPA, what's,introduce_yourself
+Hello ARPA, meet,introduce_yourself
+Hi ARPA, help,introduce_yourself
+Hey ARPA, how,introduce_yourself
+Hello ARPA, see,introduce_yourself
+Hi ARPA, everything,introduce_yourself
+Hey ARPA, going,introduce_yourself
+Hello ARPA, help,introduce_yourself
+Hi ARPA, talk,introduce_yourself
+Hey there ARPA, how,introduce_yourself
+Greetings ARPA, assist,introduce_yourself
+Hello ARPA, day,introduce_yourself
+Hi ARPA, see,introduce_yourself
+Hey ARPA, up,introduce_yourself
+Hello ARPA, help,introduce_yourself
+Hi ARPA, chat,introduce_yourself
+Hey ARPA, new,introduce_yourself
+Hello ARPA, assist,introduce_yourself
+Hi ARPA, talk,introduce_yourself
+Hey ARPA, going,introduce_yourself
+Hello ARPA, meet,introduce_yourself
+Hi ARPA, assist,introduce_yourself
+Hey there ARPA, how,introduce_yourself
+Greetings ARPA, everything,introduce_yourself
+Hello ARPA, mind,introduce_yourself
+Hi ARPA, online,introduce_yourself
+Greetings,introduce_yourself,
+Hey,introduce_yourself,
+Hello,introduce_yourself,
+Hi,introduce_yourself,
+Hey there,introduce_yourself,
+Hello, how,introduce_yourself
+Hi,introduce_yourself,
+Hey, what's up,introduce_yourself
+Hello, how's,introduce_yourself
+Hi, help,introduce_yourself
+Greetings,introduce_yourself,
+Hey,introduce_yourself,
+Hello,introduce_yourself,
+Hi,introduce_yourself,
+Hey, see,introduce_yourself
+Hello, talk,introduce_yourself
+Hi, assist,introduce_yourself
+Hey, meet,introduce_yourself
+Hello, mind,introduce_yourself
+Hi,introduce_yourself,
+Greetings, how,introduce_yourself
+Hey, help,introduce_yourself
+Hello, assist,introduce_yourself
+Hi, online,introduce_yourself
+Hey, day,introduce_yourself
+Hello, chat,introduce_yourself
+Hi, new,introduce_yourself
+Hey there,introduce_yourself,
+Greetings, what's,introduce_yourself
+Hello, meet,introduce_yourself
+Hi, help,introduce_yourself
+Hey, how,introduce_yourself
+Hello, see,introduce_yourself
+Hi, everything,introduce_yourself
+Hey, going,introduce_yourself
+Hello, help,introduce_yourself
+Hi, talk,introduce_yourself
+Hey there, how,introduce_yourself
+Greetings, assist,introduce_yourself
+Hello, day,introduce_yourself
+Hi, see,introduce_yourself
+Hey, up,introduce_yourself
+Hello, help,introduce_yourself
+Hi, chat,introduce_yourself
+Hey, new,introduce_yourself
+Hello, assist,introduce_yourself
+Hi, talk,introduce_yourself
+Hey, going,introduce_yourself
+Hello, meet,introduce_yourself
+Hi, assist,introduce_yourself
+Hey there, how,introduce_yourself
+Greetings, everything,introduce_yourself
+Hello, mind,introduce_yourself
+Hi, online,introduce_yourself
+Albert Einstein,wiki_search,
+Google company,wiki_search,
+Michael Jackson,wiki_search,
+World War II,wiki_search,
+Elon Musk,wiki_search,
+Apple Inc,wiki_search,
+Leonardo da Vinci,wiki_search,
+Facebook,wiki_search,
+Nelson Mandela,wiki_search,
+Amazon company,wiki_search,
+Leonardo DiCaprio,wiki_search,
+SpaceX,wiki_search,
+Vincent van Gogh,wiki_search,
+Bill Gates,wiki_search,
+American Revolution,wiki_search,
+Stephen Hawking,wiki_search,
+Microsoft,wiki_search,
+Marilyn Monroe,wiki_search,
+Industrial Revolution,wiki_search,
+Jeff Bezos,wiki_search,
+Martin Luther King Jr,wiki_search,
+Tesla Inc,wiki_search,
+Pablo Picasso,wiki_search,
+Steve Jobs,wiki_search,
+French Revolution,wiki_search,
+Alberto Einstein,wiki_search,
+Alphabet Inc,wiki_search,
+Elvis Presley,wiki_search,
+Cold War,wiki_search,
+Marie Curie,wiki_search,
+Netflix,wiki_search,
+Charles Darwin,wiki_search,
+Disney,wiki_search,
+Abraham Lincoln,wiki_search,
+IBM company,wiki_search,
+Julius Caesar,wiki_search,
+General Electric,wiki_search,
+Madonna,wiki_search,
+Apollo 11,wiki_search,
+Mark Zuckerberg,wiki_search,
+Ancient Egypt,wiki_search,
+Space Shuttle,wiki_search,
+George Washington,wiki_search,
+Nike Inc,wiki_search,
+Charles Dickens,wiki_search,
+Great Depression,wiki_search,
+Barack Obama,wiki_search,
+Sony,wiki_search,
+Alexander the Great,wiki_search,
+Star Wars,wiki_search,
+John F Kennedy,wiki_search,
+Uber,wiki_search,
+William Shakespeare,wiki_search,
+Russian Revolution,wiki_search,
+Warren Buffett,wiki_search,
+Samsung,wiki_search,
+Cleopatra,wiki_search,
+Ford Motor Company,wiki_search,
+Michael Jordan,wiki_search,
+World War I,wiki_search,
+Leon Trotsky,wiki_search,
+Apple Music,wiki_search,
+Galileo Galilei,wiki_search,
+Benjamin Franklin,wiki_search,
+Space Race,wiki_search,
+Alexander Hamilton,wiki_search,
+Oracle Corporation,wiki_search,
+Vincent van Gogh,wiki_search,
+Aristotle,wiki_search,
+World Health Organization,wiki_search,
+JK Rowling,wiki_search,
+Vietnam War,wiki_search,
+Thomas Edison,wiki_search,
+Nintendo,wiki_search,
+Napoleon Bonaparte,wiki_search,
+British Empire,wiki_search,
+Warren Buffet,wiki_search,
+PlayStation,wiki_search,
+John Lennon,wiki_search,
+Space Exploration,wiki_search,
+Thomas Jefferson,wiki_search,
+Snapchat,wiki_search,
+Beethoven,wiki_search,
+Egyptian Pyramids,wiki_search,
+Malcolm X,wiki_search,
+IBM,wiki_search,
+Donald Trump,wiki_search,
+Berlin Wall,wiki_search,
+Goodbye arpa,exit,
+See you arpa,exit,
+Bye arpa,exit,
+Later arpa,exit,
+Take care arpa,exit,
+Catch you later arpa,exit,
+Farewell arpa,exit,
+Adios arpa,exit,
+Bye-bye arpa,exit,
+Good night arpa,exit,
+Peace out arpa,exit,
+Take it easy arpa,exit,
+See you soon arpa,exit,
+Until next time arpa,exit,
+Good luck arpa,exit,
+Have a great day arpa,exit,
+Take care see you arpa,exit,
+Later on arpa,exit,
+Have a good one arpa,exit,
+Catch you soon arpa,exit,
+Stay safe arpa,exit,
+Good day arpa,exit,
+See you around arpa,exit,
+Talk to you later arpa,exit,
+Take care now arpa,exit,
+Catch you later on arpa,exit,
+Until then arpa,exit,
+Farewell take care arpa,exit,
+Have a good evening arpa,exit,
+Bye see you arpa,exit,
+Take it easy see you arpa,exit,
+Later see you arpa,exit,
+Catch you later see you arpa,exit,
+Until next time see you arpa,exit,
+Farewell see you arpa,exit,
+Adios see you arpa,exit,
+Bye-bye see you arpa,exit,
+Good night see you arpa,exit,
+Peace out see you arpa,exit,
+Goodbye take care arpa,exit,
+See you take care arpa,exit,
+Bye take care arpa,exit,
+Later take care arpa,exit,
+Catch you later take care arpa,exit,
+Farewell take care arpa,exit,
+Adios take care arpa,exit,
+Bye-bye take care arpa,exit,
+Good night take care arpa,exit,
+Peace out take care arpa,exit,
+Goodbye catch you later arpa,exit,
+See you catch you later arpa,exit,
+Bye catch you later arpa,exit,
+Later catch you later arpa,exit,
+Catch you later catch you later arpa,exit,
+Farewell catch you later arpa,exit,
+Adios catch you later arpa,exit,
+Bye-bye catch you later arpa,exit,
+Good night catch you later arpa,exit,
+Peace out catch you later arpa,exit,
+Goodbye farewell arpa,exit,
+See you farewell arpa,exit,
+Bye farewell arpa,exit,
+Later farewell arpa,exit,
+Catch you later farewell arpa,exit,
+Farewell arpa farewell,exit,
+Adios farewell arpa,exit,
+Bye-bye farewell arpa,exit,
+Good night farewell arpa,exit,
+Peace out farewell arpa,exit,
+Goodbye until next time arpa,exit,
+See you until next time arpa,exit,
+Bye until next time arpa,exit,
+Later until next time arpa,exit,
+Catch you later until next time arpa,exit,
+Farewell until next time arpa,exit,
+Adios until next time arpa,exit,
+Bye-bye until next time arpa,exit,
+Good night until next time arpa,exit,
+Peace out until next time arpa,exit,
+Goodbye have a good one arpa,exit,
+See you have a good one arpa,exit,
+Bye have a good one arpa,exit,
+Later have a good one arpa,exit,
+Catch you later have a good one arpa,exit,
+Farewell have a good one arpa,exit,
+Adios have a good one arpa,exit,
+Bye-bye have a good one arpa,exit,
+Good night have a good one arpa,exit,
+Peace out have a good one arpa,exit,
+Goodbye see you around arpa,exit,
+See you see you around arpa,exit,
+Bye see you around arpa,exit,
+Later see you around arpa,exit,
+Catch you later see you around arpa,exit,
+Farewell see you around arpa,exit,
+Adios see you around arpa,exit,
+Bye-bye see you around arpa,exit,
+Good night see you around arpa,exit,
+Peace out see you around arpa,exit,
+Goodbye see you soon arpa,exit,
+See you see you soon arpa,exit,
+Bye see you soon arpa,exit,
+Later see you soon arpa,exit,
+Catch you later see you soon arpa,exit,
+Farewell see you soon arpa,exit,
+Adios see you soon arpa,exit,
+Bye-bye see you soon arpa,exit,
+Good night see you soon arpa,exit,
+Peace out see you soon arpa,exit,
+Goodbye talk to you later arpa,exit,
+See you talk to you later arpa,exit,
+Bye talk to you later arpa,exit,
+Later talk to you later arpa,exit,
+Catch you later talk to you later arpa,exit,
+Farewell talk to you later arpa,exit,
+Adios talk to you later arpa,exit,
+Bye-bye talk to you later arpa,exit,
+Good night talk to you later arpa,exit,
+Peace out talk to you later arpa,exit,
+Goodbye until then arpa,exit,
+See you until then arpa,exit,
+Bye until then arpa,exit,
+Later until then arpa,exit,
+Catch you later until then arpa,exit,
+Farewell until then arpa,exit,
+Adios until then arpa,exit,
+Bye-bye until then arpa,exit,
+Good night until then arpa,exit,
+Peace out until then arpa,exit,
+Amitabh Bachchan,wiki_search,
+Shah Rukh Khan,wiki_search,
+Priyanka Chopra,wiki_search,
+Virat Kohli,wiki_search,
+Sachin Tendulkar,wiki_search,
+Tata Group,wiki_search,
+Reliance Industries,wiki_search,
+Infosys,wiki_search,
+Wipro,wiki_search,
+HCL Technologies,wiki_search,
+Biryani,wiki_search,
+Masala Dosa,wiki_search,
+Paneer Butter Masala,wiki_search,
+Rogan Josh,wiki_search,
+Samosa,wiki_search,
+Battle of Plassey,wiki_search,
+Jallianwala Bagh Massacre,wiki_search,
+Independence Day (India),wiki_search,
+Republic Day (India),wiki_search,
+Partition of India,wiki_search,
+Aishwarya Rai,wiki_search,
+Deepika Padukone,wiki_search,
+Ranveer Singh,wiki_search,
+Alia Bhatt,wiki_search,
+Salman Khan,wiki_search,
+Infosys Foundation,wiki_search,
+Mahindra & Mahindra,wiki_search,
+Bharti Airtel,wiki_search,
+Adani Group,wiki_search,
+Bajaj Auto,wiki_search,
+Gulab Jamun,wiki_search,
+Tandoori Chicken,wiki_search,
+Butter Chicken,wiki_search,
+Chole Bhature,wiki_search,
+Vada Pav,wiki_search,
+Quit India Movement,wiki_search,
+Salt March,wiki_search,
+Mangal Pandey,wiki_search,
+Rani Lakshmibai,wiki_search,
+Subhas Chandra Bose,wiki_search,
+Kareena Kapoor,wiki_search,
+Hrithik Roshan,wiki_search,
+Anushka Sharma,wiki_search,
+Kangana Ranaut,wiki_search,
+Ranbir Kapoor,wiki_search,
+Larsen & Toubro,wiki_search,
+Godrej Group,wiki_search,
+Indian Oil Corporation,wiki_search,
+Hindustan Unilever,wiki_search,
+Maruti Suzuki,wiki_search,
+Rasgulla,wiki_search,
+Pav Bhaji,wiki_search,
+Fish Curry,wiki_search,
+Hyderabadi Biryani,wiki_search,
+Idli Sambar,wiki_search,
+Battle of Panipat,wiki_search,
+Sepoy Mutiny,wiki_search,
+Indian National Congress,wiki_search,
+Bharatiya Janata Party,wiki_search,
+Dravida Munnetra Kazhagam,wiki_search,
+Vidya Balan,wiki_search,
+Ajay Devgn,wiki_search,
+Katrina Kaif,wiki_search,
+Irrfan Khan,wiki_search,
+Sushant Singh Rajput,wiki_search,
+Cipla,wiki_search,
+Sun Pharmaceutical,wiki_search,
+Dr Reddy's Laboratories,wiki_search,
+Glenmark Pharmaceuticals,wiki_search,
+Lupin Limited,wiki_search,
+Dhokla,wiki_search,
+Pani Puri,wiki_search,
+Aloo Gobi,wiki_search,
+Palak Paneer,wiki_search,
+Bhel Puri,wiki_search,
+Simon Commission,wiki_search,
+Dandi March,wiki_search,
+Khilafat Movement,wiki_search,
+Nehru-Gandhi Family,wiki_search,
+Green Revolution in India,wiki_search,
+Nawazuddin Siddiqui,wiki_search,
+Taapsee Pannu,wiki_search,
+Rajkummar Rao,wiki_search,
+Bhumi Pednekar,wiki_search,
+Vicky Kaushal,wiki_search,
+ITC Limited,wiki_search,
+Asian Paints,wiki_search,
+Hindalco Industries,wiki_search,
+Grasim Industries,wiki_search,
+IndusInd Bank,wiki_search,
+Paneer Tikka,wiki_search,
+Keema Pav,wiki_search,
+Chicken 65,wiki_search,
+Mysore Pak,wiki_search,
+Dum Aloo,wiki_search,
+Operation Blue Star,wiki_search,
+Emergency (India),wiki_search,
+Swaraj Party,wiki_search,
+All India Trinamool Congress,wiki_search,
+Aam Aadmi Party,wiki_search,
+Parineeti Chopra,wiki_search,
+Arjun Kapoor,wiki_search,
+Shraddha Kapoor,wiki_search,
+Varun Dhawan,wiki_search,
+Tiger Shroff,wiki_search,
+Nestle India,wiki_search,
+Patanjali Ayurved,wiki_search,
+Parle Products,wiki_search,
+Amul,wiki_search,
+Britannia Industries,wiki_search,
+Sambar,wiki_search,
+Rasam,wiki_search,
+Korma,wiki_search,
+Bhindi Masala,wiki_search,
+Chana Masala,wiki_search,
+Battle of Buxar,wiki_search,
+Non-cooperation Movement,wiki_search,
+Civil Disobedience Movement,wiki_search,
+Princely States of India,wiki_search,
+Gandhi-Irwin Pact,wiki_search,
+Sonakshi Sinha,wiki_search,
+Sidharth Malhotra,wiki_search,
+Jacqueline Fernandez,wiki_search,
+Yami Gautam,wiki_search,
+Kriti Sanon,wiki_search,
+Hero MotoCorp,wiki_search,
+Mahindra Tractors,wiki_search,
+Apollo Tyres,wiki_search,
+Bharat Forge,wiki_search,
+Eicher Motors,wiki_search,
+Aloo Tikki,wiki_search,
+Saag Paneer,wiki_search,
+Raita,wiki_search,
+Matar Paneer,wiki_search,
+Pongal,wiki_search,
+Moplah Rebellion,wiki_search,
+Chauri Chaura Incident,wiki_search,
+Poona Pact,wiki_search,
+Cripps Mission,wiki_search,
+Cabinet Mission,wiki_search,
+Madhuri Dixit,wiki_search,
+Anil Kapoor,wiki_search,
+Juhi Chawla,wiki_search,
+Karisma Kapoor,wiki_search,
+Aamir Khan,wiki_search,
+How to bake a cake,web_search,
+Python coding tutorial,web_search,
+Paris to London flight,web_search,
+Capital of Brazil,web_search,
+Vegan lasagna recipe,web_search,
+How to tie a tie,web_search,
+Java tutorial,web_search,
+New York to Los Angeles flight,web_search,
+Capital of France,web_search,
+Chocolate chip cookie recipe,web_search,
+How to learn Spanish,web_search,
+C++ tutorial,web_search,
+London to Paris train,web_search,
+Capital of Japan,web_search,
+Mushroom risotto recipe,web_search,
+How to play guitar,web_search,
+JavaScript tutorial,web_search,
+Los Angeles to New York flight,web_search,
+Capital of India,web_search,
+Vegetarian chili recipe,web_search,
+How to lose weight,web_search,
+PHP tutorial,web_search,
+Tokyo to Kyoto bullet train,web_search,
+Capital of Australia,web_search,
+Pasta carbonara recipe,web_search,
+How to meditate,web_search,
+Ruby tutorial,web_search,
+San Francisco to Seattle flight,web_search,
+Capital of Canada,web_search,
+Sushi recipe,web_search,
+How to code in Python,web_search,
+SQL tutorial,web_search,
+Chicago to Miami flight,web_search,
+Capital of Germany,web_search,
+Pancake recipe,web_search,
+How to start a blog,web_search,
+HTML tutorial,web_search,
+Seattle to Vancouver train,web_search,
+Capital of China,web_search,
+Chocolate cake recipe,web_search,
+How to draw,web_search,
+CSS tutorial,web_search,
+Vancouver to Calgary flight,web_search,
+Capital of Italy,web_search,
+Chicken curry recipe,web_search,
+How to make money online,web_search,
+React tutorial,web_search,
+Calgary to Toronto flight,web_search,
+Capital of Russia,web_search,
+Smoothie recipe,web_search,
+How to install Windows 10,web_search,
+Angular tutorial,web_search,
+Toronto to Montreal train,web_search,
+Capital of Spain,web_search,
+Tiramisu recipe,web_search,
+How to build a website,web_search,
+Nodejs tutorial,web_search,
+Montreal to Quebec City flight,web_search,
+Capital of South Africa,web_search,
+Quiche recipe,web_search,
+How to play chess,web_search,
+Bootstrap tutorial,web_search,
+Quebec City to Ottawa train,web_search,
+Capital of Mexico,web_search,
+Lasagna recipe,web_search,
+How to write a resume,web_search,
+MongoDB tutorial,web_search,
+Ottawa to Halifax flight,web_search,
+Capital of Argentina,web_search,
+Stir fry recipe,web_search,
+How to grow tomatoes,web_search,
+Django tutorial,web_search,
+Halifax to St John's flight,web_search,
+Capital of South Korea,web_search,
+Ratatouille recipe,web_search,
+How to invest in stocks,web_search,
+WordPress tutorial,web_search,
+St John's to Charlottetown flight,web_search,
+Capital of Egypt,web_search,
+Key lime pie recipe,web_search,
+How to improve memory,web_search,
+Vuejs tutorial,web_search,
+Charlottetown to Moncton train,web_search,
+Capital of Turkey,web_search,
+Cupcake recipe,web_search,
+How to make a budget,web_search,
+ASPNET tutorial,web_search,
+Moncton to Fredericton train,web_search,
+Capital of Saudi Arabia,web_search,
+Cheesecake recipe,web_search,
+How to write a cover letter,web_search,
+Expressjs tutorial,web_search,
+Fredericton to Saint John train,web_search,
+Capital of Thailand,web_search,
+Pad Thai recipe,web_search,
+How to start running,web_search,
+Flask tutorial,web_search,
+Saint John to Bathurst train,web_search,
+Capital of Indonesia,web_search,
+Gazpacho recipe,web_search,
+How to learn a new language,web_search,
+Spring Boot tutorial,web_search,
+Bathurst to Miramichi train,web_search,
+Capital of Vietnam,web_search,
+Caesar salad recipe,web_search,
+How to create a YouTube channel,web_search,
+Symfony tutorial,web_search,
+Miramichi to Campbellton train,web_search,
+Capital of Philippines,web_search,
+Pho recipe,web_search,
+How to bake bread,web_search,
+Laravel tutorial,web_search,
+Campbellton to Edmundston train,web_search,
+Capital of Greece,web_search,
+Pulled pork recipe,web_search,
+How to do yoga,web_search,
+ASPNET Core tutorial,web_search,
+Edmundston to Woodstock train,web_search,
+Capital of Portugal,web_search,
+Taco recipe,web_search,
+How to brew coffee,web_search,
+Ruby on Rails tutorial,web_search,
+Woodstock to Fredericton train,web_search,
+Capital of Chile,web_search,
+Pesto pasta recipe,web_search,
+How to design a logo,web_search,
+Expressjs tutorial,web_search,
+Fredericton to Saint John train,web_search,
+Capital of Sweden,web_search,
+Pancake recipe,web_search,
+How to make a budget,web_search,
+ASPNET tutorial,web_search,
+Moncton to Fredericton train,web_search,
+Capital of Saudi Arabia,web_search,
+Cheesecake recipe,web_search,
+Prompt,Intent,
+Play Shape of You Ed Sheeran,play_music,
+Play Dil Chahta Hai Shankar-Ehsaan-Loy,play_music,
+Play Blinding Lights The Weeknd,play_music,
+Play Tum Hi Ho Arijit Singh,play_music,
+Play Someone Like You Adele,play_music,
+Play Senorita Shawn Mendes,play_music,
+Play Hawa Hawa Mika Singh,play_music,
+Play Perfect Ed Sheeran,play_music,
+Play Channa Mereya Arijit Singh,play_music,
+Play Dynamite BTS,play_music,
+Play Believer Imagine Dragons,play_music,
+Play Nashe Si Chadh Gayi Arijit Singh,play_music,
+Play Memories Maroon 5,play_music,
+Play Kabira Tochi Raina Rekha Bhardwaj,play_music,
+Play Gerua Arijit Singh Antara Mitra,play_music,
+Play Dil Diyan Gallan Atif Aslam,play_music,
+Play Havana Camila Cabello,play_music,
+Play Tera Ban Jaunga Akhil Sachdeva,play_music,
+Play Thunder Imagine Dragons,play_music,
+Play Laal Ishq Arijit Singh,play_music,
+Play Makhna Tanishk Bagchi Yasser Desai,play_music,
+Play Let Her Go Passenger,play_music,
+Play Tujhe Kitna Chahne Lage Arijit Singh,play_music,
+Play On My Way Alan Walker Sabrina Carpenter,play_music,
+Play Kaun Tujhe Palak Muchhal,play_music,
+Play Baarish Neha Kakkar Bilal Saeed,play_music,
+Play Stitches Shawn Mendes,play_music,
+Play Bom Diggy Zack Knight Jasmin Walia,play_music,
+Play Heathens Twenty One Pilots,play_music,
+Play Hawayein Arijit Singh,play_music,
+Play Chogada Darshan Raval Asees Kaur,play_music,
+Play Main Tera Boyfriend Arijit Singh,play_music,
+Play Despacito Luis Fonsi Daddy Yankee,play_music,
+Play Sunn Raha Hai Ankit Tiwari,play_music,
+Play Ghungroo Arijit Singh Shilpa Rao,play_music,
+Play Rockabye Clean Bandit,play_music,
+Play Taki Taki DJ Snake Selena Gomez Ozuna,play_music,
+Play Girls Like You Maroon 5 Cardi B,play_music,
+Play Bom Diggy Zack Knight Jasmin Walia,play_music,
+Play Kamli Sunidhi Chauhan,play_music,
+Play Believer Imagine Dragons,play_music,
+Play Dilbar Neha Kakkar Dhvani Bhanushali,play_music,
+Play Tera Yaar Hoon Main Arijit Singh,play_music,
+Play Bekhayali Sachet Tandon,play_music,
+Play Havana Camila Cabello,play_music,
+Play Bad Guy Billie Eilish,play_music,
+Play Let Me Love You DJ Snake Justin Bieber,play_music,
+Play Pal Pal Dil Ke Paas Arijit Singh,play_music,
+Play Shape of You Ed Sheeran,play_music,
+Play Dekhte Dekhte Atif Aslam,play_music,
+Play Savage Love Jawsh 685 Jason Derulo,play_music,
+Play Ghungroo Arijit Singh Shilpa Rao,play_music,
+Play Señorita Shawn Mendes Camila Cabello,play_music,
+Play Hymn For The Weekend Coldplay,play_music,
+Play Tera Yaar Hoon Main Arijit Singh,play_music,
+Play Dil Diyan Gallan Atif Aslam,play_music,
+Play Happier Marshmello Bastille,play_music,
+Play Malang Ved Sharma,play_music,
+Play Faded Alan Walker,play_music,
+Play Savage Love Jawsh 685 Jason Derulo,play_music,
+Play High Rated Gabru Guru Randhawa,play_music,
+Play Photograph Ed Sheeran,play_music,
+Play Duniyaa Akhil Dhvani Bhanushali,play_music,
+Play Thunder Imagine Dragons,play_music,
+Play Laal Ishq Arijit Singh,play_music,
+Play Cheap Thrills Sia,play_music,
+Play Makhna Tanishk Bagchi Yasser Desai,play_music,
+Play Let Her Go Passenger,play_music,
+Play Tujhe Kitna Chahne Lage Arijit Singh,play_music,
+Play Girls Like You Maroon 5 Cardi B,play_music,
+Play Bekhayali Sachet Tandon,play_music,
+Play On My Way Alan Walker Sabrina Carpenter,play_music,
+Play Kaun Tujhe Palak Muchhal,play_music,
+Play Bad Guy Billie Eilish,play_music,
+Play Baarish Neha Kakkar Bilal Saeed,play_music,
+Play Stitches Shawn Mendes,play_music,
+Play Bom Diggy Zack Knight Jasmin Walia,play_music,
+Play Heathens Twenty One Pilots,play_music,
+Play Hawayein Arijit Singh,play_music,
+Play Tera Ban Jaunga Akhil Sachdeva,play_music,
+Play Chogada Darshan Raval Asees Kaur,play_music,
+Play Senorita Shawn Mendes Camila Cabello,play_music,
+Play Main Tera Boyfriend Arijit Singh,play_music,
+Play Despacito Luis Fonsi Daddy Yankee,play_music,
+Play Sunn Raha Hai Ankit Tiwari,play_music,
+Play Memories Maroon 5,play_music,
+Play Ghungroo Arijit Singh Shilpa Rao,play_music,
+Play Rockabye Clean Bandit,play_music,
+Play Tum Hi Ho Arijit Singh,play_music,
+Play Dil Diyan Gallan Atif Aslam,play_music,
+Play Taki Taki DJ Snake Selena Gomez Ozuna,play_music,
+Play Dynamite BTS,play_music,
+Play Tum Mile Neeraj Shridhar Emraan Hashmi,play_music,
+Play Kamli Sunidhi Chauhan,play_music,
+Play Believer Imagine Dragons,play_music,
+Play Dilbar Neha Kakkar Dhvani Bhanushali,play_music,
+Play Tera Yaar Hoon Main Arijit Singh,play_music,
+Play Bekhayali Sachet Tandon,play_music,
+Play Havana Camila Cabello,play_music,
+Play Bad Guy Billie Eilish,play_music,
+Play Let Me Love You DJ Snake Justin Bieber,play_music,
+Play Pal Pal Dil Ke Paas Arijit Singh,play_music,
+Play Shape of You Ed Sheeran,play_music,
+Play Dekhte Dekhte Atif Aslam,play_music,
+Play Savage Love Jawsh 685 Jason Derulo,play_music,
+Play Ghungroo Arijit Singh Shilpa Rao,play_music,
+Play Senorita Shawn Mendes Camila Cabello,play_music,
+Play Hymn For The Weekend Coldplay,play_music,
+Play Tera Yaar Hoon Main Arijit Singh,play_music,
+Play Dil Diyan Gallan Atif Aslam,play_music,
+Play Happier Marshmello Bastille,play_music,
+Play Malang Ved Sharma,play_music,
+Play Faded Alan Walker,play_music,
+Play Savage Love Jawsh 685 Jason Derulo,play_music,
+Play High Rated Gabru Guru Randhawa,play_music,
+Play Photograph Ed Sheeran,play_music,
+Play Duniyaa Akhil Dhvani Bhanushali,play_music,
+Play Thunder Imagine Dragons,play_music,
+Play Laal Ishq Arijit Singh,play_music,
+Play Cheap Thrills Sia,play_music,
+Play Makhna Tanishk Bagchi Yasser Desai,play_music,
+Play Let Her Go Passenger,play_music,
+Play Tujhe Kitna Chahne Lage Arijit Singh,play_music,
+Play Girls Like You Maroon 5 Cardi B,play_music,
+Play Bom Diggy Zack Knight Jasmin Walia,play_music,
+Play On My Way Alan Walker Sabrina Carpenter,play_music,
+Play Kaun Tujhe Palak Muchhal,play_music,
+Play Bad Guy Billie Eilish,play_music,
+Play Baarish Neha Kakkar Bilal Saeed,play_music,
+Play Stitches Shawn Mendes,play_music,
+Play Bom Diggy Zack Knight Jasmin Walia,play_music,
+Play Heathens Twenty One Pilots,play_music,
+Play Hawayein Arijit Singh,play_music,
+Play Chogada Darshan Raval Asees Kaur,play_music,
+Play Main Tera Boyfriend Arijit Singh,play_music,
+Play Despacito Luis Fonsi Daddy Yankee,play_music,
+Play Sunn Raha Hai Ankit Tiwari,play_music,
+Play Memories Maroon 5,play_music,
+Play Ghungroo Arijit Singh Shilpa Rao,play_music,
+Play Rockabye Clean Bandit,play_music,
+Play Tum Hi Ho Arijit Singh,play_music,
+Play Dil Diyan Gallan Atif Aslam,play_music,
+Play Taki Taki DJ Snake Selena Gomez Ozuna,play_music,
+Play Dynamite BTS,play_music,
+Play Tum Mile Neeraj Shridhar Emraan Hashmi,play_music,
+Play Kamli Sunidhi Chauhan,play_music,
+Play Believer Imagine Dragons,play_music,
+Play Dilbar Neha Kakkar Dhvani Bhanushali,play_music,
+Play Tera Yaar Hoon Main Arijit Singh,play_music,
+Play Bekhayali Sachet Tandon,play_music,
+Play Havana Camila Cabello,play_music,
+Play Bad Guy Billie Eilish,play_music,
+Play mine by taylor swift, play_music,
+Play wildest dreams by taylor swift, play_music,
+Play Shivers by Ed Sheeran, play_music,
+Play Bad habits by Ed Sheeran, play music,
+Play Shape of you by Ed Sheeran, play_music,
+Play Immortals by Fallout boy, play_music,
+exit, exit,
+find taylor swift, wiki_search,
+find mukesh ambani, wiki_search,
+who ed sheeran, wiki_search,
+find badshah, wiki_search,
+tell me about world war 2, wiki_search,
+world war 2, wiki_search,
+find hitler, wiki_search,
+who adolf hitler, wiki_search,
+find shawn mendes, wiki_search,
+badshah rapper, wiki_search,
+hardy sandhu singer, wiki_search,
+mukesh ambani business man, wiki_search,
+mark Cuban investor, wiki_search,
+play immortals by fallout boy, play_music,
+exit, exit,
+exit, exit,
+bye, exit,
+goodbye, exit,
+good bye, exit,
+farewell, exit,
+bye bye, exit,
+see you, exit,
+bye, exit,
+quit, exit,
+take care, exit,
+sayonara, exit,
+take care, exit,
+good bye, exit,
+play baaki baatein peene baad, play_music,
+play south of the border, play_music,
+play falling (adrenaline), play_music,
+play horn blow, play_music,
+play, play_music,
+play english music, play_music,
+play hindi music, play_music,
+play some music, play_music,
+play some tunes, play_music,
+play some beats, play_music,
+play some latest tracks, play_music,
+play songs by taylor swift, play_music,
+play songs by amit maan, play_music,
+play songs by ed sheeran, play_music,
+play songs by harrdy sandhu, play_music,
+Create new to-do list,start_todo_list,
+Begin to-do list,start_todo_list,
+Start fresh to-do list,start_todo_list,
+Make to-do list,start_todo_list,
+I need new to-do list,start_todo_list,
+Set up to-do list,start_todo_list,
+Make to-do list,start_todo_list,
+Generate to-do list,start_todo_list,
+Start to-do list,start_todo_list,
+Open new to-do list,start_todo_list,
+Start creating to-do list,start_todo_list,
+Initiate to-do list,start_todo_list,
+Start task list,start_todo_list,
+Begin list tasks,start_todo_list,
+Create list things do,start_todo_list,
+Start task list,start_todo_list,
+I need start to-do list,start_todo_list,
+Start my to-do list,start_todo_list,
+Create my to-do list,start_todo_list,
+Create to-do list,start_todo_list,
+Open to-do list,start_todo_list,
+Start new list tasks,start_todo_list,
+Initiate new to-do list,start_todo_list,
+Make list things do,start_todo_list,
+I want start to-do list,start_todo_list,
+Set up new to-do list,start_todo_list,
+Start new list tasks,start_todo_list,
+Create new list things do,start_todo_list,
+Initiate to-do list,start_todo_list,
+Make new to-do list,start_todo_list,
+Start fresh list tasks,start_todo_list,
+Begin new to-do list,start_todo_list,
+Set up to-do list,start_todo_list,
+Start listing tasks,start_todo_list,
+Create new task list,start_todo_list,
+I need fresh to-do list,start_todo_list,
+Begin creating to-do list,start_todo_list,
+Start new to-do list now,start_todo_list,
+Start list tasks,start_todo_list,
+Make fresh to-do list,start_todo_list,
+Create list to-dos,start_todo_list,
+Start list to-dos,start_todo_list,
+Initiate list tasks,start_todo_list,
+Create list tasks,start_todo_list,
+Open fresh to-do list,start_todo_list,
+Begin task list,start_todo_list,
+Start my to-do list,start_todo_list,
+I need create to-do list,start_todo_list,
+Start organizing to-do list,start_todo_list,
+Create organized to-do list,start_todo_list,
+Make to-do list now,start_todo_list,
+Open task list,start_todo_list,
+Begin new task list,start_todo_list,
+Initiate my to-do list,start_todo_list,
+Start new list things do,start_todo_list,
+Create task list,start_todo_list,
+I want create to-do list,start_todo_list,
+Set up new task list,start_todo_list,
+Start fresh task list,start_todo_list,
+Create new list tasks,start_todo_list,
+Initiate task list,start_todo_list,
+Make new list tasks,start_todo_list,
+Start listing to-dos,start_todo_list,
+Begin list to-dos,start_todo_list,
+Open fresh list tasks,start_todo_list,
+Start list things do,start_todo_list,
+Create new to-do list,start_todo_list,
+Begin fresh to-do list,start_todo_list,
+Set up task list,start_todo_list,
+Start creating list tasks,start_todo_list,
+Initiate new list tasks,start_todo_list,
+Create fresh to-do list,start_todo_list,
+Open new task list,start_todo_list,
+Start new to-do list,start_todo_list,
+Start task list now,start_todo_list,
+Begin creating list tasks,start_todo_list,
+Start fresh list to-dos,start_todo_list,
+Create to-do list now,start_todo_list,
+Initiate fresh to-do list,start_todo_list,
+Start list tasks,start_todo_list,
+Make task list,start_todo_list,
+Open to-do list,start_todo_list,
+Begin new list things do,start_todo_list,
+Start new organized to-do list,start_todo_list,
+Create organized task list,start_todo_list,
+Start listing tasks,start_todo_list,
+I need new list tasks,start_todo_list,
+Begin creating fresh to-do list,start_todo_list,
+Create new organized to-do list,start_todo_list,
+Open fresh to-do list,start_todo_list,
+Start listing things do,start_todo_list,
+Initiate fresh list tasks,start_todo_list,
+Start fresh to-do list,start_todo_list,
+Make fresh list tasks,start_todo_list,
+Create new list to-dos,start_todo_list,
+Begin list tasks,start_todo_list,
+Open new to-do list now,start_todo_list,
+Start creating fresh to-do list,start_todo_list,
+Initiate new task list,start_todo_list,
+Create list things do,start_todo_list,
+Start task list,start_todo_list,
+Set up fresh to-do list,start_todo_list,
+Start new list to-dos,start_todo_list,
+Begin new organized task list,start_todo_list,
+Create task list now,start_todo_list,
+Open fresh task list,start_todo_list,
+Initiate new to-do list,start_todo_list,
+Make new organized to-do list,start_todo_list,
+Start list tasks now,start_todo_list,
+Create fresh list tasks,start_todo_list,
+Open list to-dos,start_todo_list,
+Start creating list to-dos,start_todo_list,
+Initiate new list things do,start_todo_list,
+Create fresh list to-dos,start_todo_list,
+Start new task list,start_todo_list,
+Begin listing tasks,start_todo_list,
+Open list tasks,start_todo_list,
+Start new list things do,start_todo_list,
+Begin fresh task list,start_todo_list,
+Create list tasks now,start_todo_list,
+Initiate new to-do list,start_todo_list,
+Create list tasks,start_todo_list,
+I need fresh list tasks,start_todo_list,
+Start new to-do list today,start_todo_list,
+Begin creating fresh list tasks,start_todo_list,
+Create new list things do,start_todo_list,
+Open fresh list to-dos,start_todo_list,
+Initiate list to-dos,start_todo_list,
+Start list things I need do,start_todo_list,
+Make fresh to-do list,start_todo_list,
+Begin new list tasks,start_todo_list,
+Start my new to-do list,start_todo_list,
+Create a to-do list,start_todo_list,
+Start a new to-do list,start_todo_list,
+I need to make a to-do list,start_todo_list,
+Can you start a to-do list for me,start_todo_list,
+Initiate a to-do list,start_todo_list,
+Begin a to-do list,start_todo_list,
+Make a new to-do list,start_todo_list,
+Open a to-do list,start_todo_list,
+Set up a to-do list,start_todo_list,
+Generate a to-do list,start_todo_list,
+Please create a to-do list,start_todo_list,
+Could you start a to-do list,start_todo_list,
+I want to create a to-do list,start_todo_list,
+Let's start a to-do list,start_todo_list,
+Help me make a to-do list,start_todo_list,
+Start my to-do list,start_todo_list,
+I need a new to-do list,start_todo_list,
+Can you create a to-do list,start_todo_list,
+Open a new to-do list,start_todo_list,
+Let's make a to-do list,start_todo_list,
+Get a to-do list ready,start_todo_list,
+Set a new to-do list,start_todo_list,
+Make my to-do list,start_todo_list,
+Can you open a to-do list,start_todo_list,
+I'd like to start a to-do list,start_todo_list,
+Create my to-do list,start_todo_list,
+I need to start a to-do list,start_todo_list,
+Please start a to-do list for me,start_todo_list,
+Initiate my to-do list,start_todo_list,
+Start a to-do list for me,start_todo_list,
+Help me start a to-do list,start_todo_list,
+Can you help me create a to-do list,start_todo_list,
+I need help starting a to-do list,start_todo_list,
+Let's initiate a to-do list,start_todo_list,
+Begin my to-do list,start_todo_list,
+Can you make a to-do list,start_todo_list,
+Please open a to-do list,start_todo_list,
+Get my to-do list started,start_todo_list,
+I need to initiate a to-do list,start_todo_list,
+Let's create a to-do list together,start_todo_list,
+Can we start a to-do list,start_todo_list,
+Help me generate a to-do list,start_todo_list,
+I'd like to make a to-do list,start_todo_list,
+Start a to-do list now,start_todo_list,
+Create a fresh to-do list,start_todo_list,
+Can you generate a to-do list,start_todo_list,
+Open up a to-do list,start_todo_list,
+Set my to-do list,start_todo_list,
+Let's get a to-do list going,start_todo_list,
+Please help me start a to-do list,start_todo_list,
+Can you set up a to-do list,start_todo_list,
+I need you to start a to-do list,start_todo_list,
+Generate my to-do list,start_todo_list,
+I'd like to generate a to-do list,start_todo_list,
+Can you initiate a to-do list,start_todo_list,
+Create a brand new to-do list,start_todo_list,
+Let's make my to-do list,start_todo_list,
+Open my to-do list,start_todo_list,
+Make a fresh to-do list,start_todo_list,
+I need to open a to-do list,start_todo_list,
+Can you set a to-do list for me,start_todo_list,
+I want to generate a to-do list,start_todo_list,
+Help me set up a to-do list,start_todo_list,
+Let's start my to-do list,start_todo_list,
+Please initiate a to-do list,start_todo_list,
+Can we create a to-do list,start_todo_list,
+Make a to-do list for me,start_todo_list,
+Get a new to-do list started,start_todo_list,
+Can you help me start a to-do list,start_todo_list,
+Let's set up a to-do list,start_todo_list,
+Open a brand new to-do list,start_todo_list,
+Start a new to-do list for me,start_todo_list,
+Please create my to-do list,start_todo_list,
+I'd like to open a to-do list,start_todo_list,
+Can we make a to-do list,start_todo_list,
+Help me open a to-do list,start_todo_list,
+Generate a new to-do list,start_todo_list,
+Let's get my to-do list started,start_todo_list,
+Please get a to-do list ready,start_todo_list,
+Initiate a new to-do list,start_todo_list,
+Can you make my to-do list,start_todo_list,
+Open a fresh to-do list,start_todo_list,
+I need to generate a to-do list,start_todo_list,
+Please set up a to-do list,start_todo_list,
+Help me create a to-do list,start_todo_list,
+Can we initiate a to-do list,start_todo_list,
+Create a to-do list for me,start_todo_list,
+Get my to-do list going,start_todo_list,
+Set up my to-do list,start_todo_list,
+Start creating a to-do list,start_todo_list,
+Can you help me generate a to-do list,start_todo_list,
+I need you to create a to-do list,start_todo_list,
+Please make a to-do list for me,start_todo_list,
+Open a to-do list for me,start_todo_list,
+Let's get a new to-do list started,start_todo_list,
+Initiate a fresh to-do list,start_todo_list,
+Generate a to-do list for me,start_todo_list,
+Please start my to-do list,start_todo_list,
+Help me generate a to-do list,start_todo_list,
+Can we open a to-do list,start_todo_list,
+Show to-do list,read_todo_list,
+Display tasks,read_todo_list,
+List my tasks,read_todo_list,
+Show tasks,read_todo_list,
+Display to-do list,read_todo_list,
+What are my tasks,read_todo_list,
+Show today's tasks,read_todo_list,
+Display today's to-dos,read_todo_list,
+List today's to-dos,read_todo_list,
+What are today's tasks,read_todo_list,
+Today's to-do list,read_todo_list,
+Show pending tasks,read_todo_list,
+Display pending tasks,read_todo_list,
+List pending tasks,read_todo_list,
+Show upcoming tasks,read_todo_list,
+Display upcoming tasks,read_todo_list,
+List upcoming tasks,read_todo_list,
+What are upcoming tasks,read_todo_list,
+Show current to-dos,read_todo_list,
+Display current to-dos,read_todo_list,
+List current to-dos,read_todo_list,
+What are current tasks,read_todo_list,
+Show task list,read_todo_list,
+Display task list,read_todo_list,
+List task list,read_todo_list,
+What is my to-do list,read_todo_list,
+Show my to-dos,read_todo_list,
+Display my to-dos,read_todo_list,
+List my to-dos,read_todo_list,
+What is my task list,read_todo_list,
+Show all tasks,read_todo_list,
+Display all tasks,read_todo_list,
+List all tasks,read_todo_list,
+What are all my tasks,read_todo_list,
+Show my tasks for today,read_todo_list,
+Display my tasks for today,read_todo_list,
+List my tasks for today,read_todo_list,
+What are my tasks for today,read_todo_list,
+Show incomplete tasks,read_todo_list,
+Display incomplete tasks,read_todo_list,
+List incomplete tasks,read_todo_list,
+What are my incomplete tasks,read_todo_list,
+Show active tasks,read_todo_list,
+Display active tasks,read_todo_list,
+List active tasks,read_todo_list,
+What are my active tasks,read_todo_list,
+Show my pending tasks,read_todo_list,
+Display my pending tasks,read_todo_list,
+List my pending tasks,read_todo_list,
+What are my pending tasks,read_todo_list,
+Show my upcoming tasks,read_todo_list,
+Display my upcoming tasks,read_todo_list,
+List my upcoming tasks,read_todo_list,
+What are my upcoming tasks,read_todo_list,
+Show my current tasks,read_todo_list,
+Display my current tasks,read_todo_list,
+List my current tasks,read_todo_list,
+What are my current tasks,read_todo_list,
+Show to-dos for today,read_todo_list,
+Display to-dos for today,read_todo_list,
+List to-dos for today,read_todo_list,
+What are my to-dos for today,read_todo_list,
+Show task schedule,read_todo_list,
+Display task schedule,read_todo_list,
+List task schedule,read_todo_list,
+What is my task schedule,read_todo_list,
+Show my task schedule,read_todo_list,
+Display my task schedule,read_todo_list,
+List my task schedule,read_todo_list,
+What is my task schedule for today,read_todo_list,
+Show task list for today,read_todo_list,
+Display task list for today,read_todo_list,
+List task list for today,read_todo_list,
+What is my task list for today,read_todo_list,
+Show scheduled tasks,read_todo_list,
+Display scheduled tasks,read_todo_list,
+List scheduled tasks,read_todo_list,
+What are my scheduled tasks,read_todo_list,
+Show task plan,read_todo_list,
+Display task plan,read_todo_list,
+List task plan,read_todo_list,
+What is my task plan,read_todo_list,
+Show my task plan,read_todo_list,
+Display my task plan,read_todo_list,
+List my task plan,read_todo_list,
+What is my task plan for today,read_todo_list,
+Show my task list,read_todo_list,
+Display my task list,read_todo_list,
+List my task list,read_todo_list,
+What is my task list,read_todo_list,
+Show today's to-do list,read_todo_list,
+Display today's to-do list,read_todo_list,
+List today's to-do list,read_todo_list,
+What is my to-do list for today,read_todo_list,
+Show active to-dos,read_todo_list,
+Display active to-dos,read_todo_list,
+List active to-dos,read_todo_list,
+What are my active to-dos,read_todo_list,
+Show task overview,read_todo_list,
+Display task overview,read_todo_list,
+List task overview,read_todo_list,
+What is my task overview,read_todo_list,
+Show my task overview,read_todo_list,
+Display my task overview,read_todo_list,
+List my task overview,read_todo_list,
+What is my task overview for today,read_todo_list,
+Show my active tasks,read_todo_list,
+Display my active tasks,read_todo_list,
+List my active tasks,read_todo_list,
+What are my active tasks,read_todo_list,
+Show today's tasks overview,read_todo_list,
+Display today's tasks overview,read_todo_list,
+List today's tasks overview,read_todo_list,
+What is my tasks overview for today,read_todo_list,
+Show my to-do tasks,read_todo_list,
+Display my to-do tasks,read_todo_list,
+List my to-do tasks,read_todo_list,
+What are my to-do tasks,read_todo_list,
+Show today's pending tasks,read_todo_list,
+Display today's pending tasks,read_todo_list,
+List today's pending tasks,read_todo_list,
+What are my pending tasks for today,read_todo_list,
+Show my incomplete to-dos,read_todo_list,
+Display my incomplete to-dos,read_todo_list,
+List my incomplete to-dos,read_todo_list,
+What are my incomplete to-dos,read_todo_list,
+Show task reminders,read_todo_list,
+Display task reminders,read_todo_list,
+List task reminders,read_todo_list,
+What are my task reminders,read_todo_list,
+Show today's task reminders,read_todo_list,
+Display today's task reminders,read_todo_list,
+List today's task reminders,read_todo_list,
+What are my task reminders for today,read_todo_list,
+Show my task reminders,read_todo_list,
+Display my task reminders,read_todo_list,
+List my task reminders,read_todo_list,
+What are my task reminders,read_todo_list,
+Show today's active tasks,read_todo_list,
+Display today's active tasks,read_todo_list,
+List today's active tasks,read_todo_list,
+What are my active tasks for today,read_todo_list,
+Show my upcoming to-dos,read_todo_list,
+Display my upcoming to-dos,read_todo_list,
+List my upcoming to-dos,read_todo_list,
+What are my upcoming to-dos,read_todo_list,
+Show task agenda,read_todo_list,
+Display task agenda,read_todo_list,
+List task agenda,read_todo_list,
+What is my task agenda,read_todo_list,
+Show my task agenda,read_todo_list,
+Display my task agenda,read_todo_list,
+List my task agenda,read_todo_list,
+What is my task agenda for today,read_todo_list,
+Show today's task agenda,read_todo_list,
+Display today's task agenda,read_todo_list,
+List today's task agenda,read_todo_list,
+What is my task agenda for today,read_todo_list,
+Show task itinerary,read_todo_list,
+Display task itinerary,read_todo_list,
+List task itinerary,read_todo_list,
+What is my task itinerary,read_todo_list,
+Show my task itinerary,read_todo_list,
+Display my task itinerary,read_todo_list,
+List my task itinerary,read_todo_list,
+What is my task itinerary for today,read_todo_list,
+Show today's task itinerary,read_todo_list,
+Display today's task itinerary,read_todo_list,
+List today's task itinerary,read_todo_list,
+What is my task itinerary for today,read_todo_list,
+Show task plan for today,read_todo_list,
+Display task plan for today,read_todo_list,
+List task plan for today,read_todo_list,
+What is my task plan for today,read_todo_list,
+Show my tasks overview,read_todo_list,
+Display my tasks overview,read_todo_list,
+List my tasks overview,read_todo_list,
+What is my tasks overview,read_todo_list,
+Show tasks summary,read_todo_list,
+Display tasks summary,read_todo_list,
+List tasks summary,read_todo_list,
+What is my tasks summary,read_todo_list,
+Show my tasks summary,read_todo_list,
+Display my tasks summary,read_todo_list,
+List my tasks summary,read_todo_list,
+What is my tasks summary for today,read_todo_list,
+Show today's tasks summary,read_todo_list,
+Display today's tasks summary,read_todo_list,
+List today's tasks summary,read_todo_list,
+What is my tasks summary for today,read_todo_list,
+Show today's to-dos summary,read_todo_list,
+Display today's to-dos summary,read_todo_list,
+List today's to-dos summary,read_todo_list,
+What is my to-dos summary for today,read_todo_list,
+Show task breakdown,read_todo_list,
+Display task breakdown,read_todo_list,
+List task breakdown,read_todo_list,
+What is my task breakdown,read_todo_list,
+Show my task breakdown,read_todo_list,
+Display my task breakdown,read_todo_list,
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+Could you please tell me the current time,tell_time
+What's the time now,tell_time
+Do you have the time,tell_time
+Can you let me know the time,tell_time
+May I know the time please,tell_time
+Could you tell me what time it is,tell_time
+What is the time right now,tell_time
+Would you mind telling me the time,tell_time
+Can you tell me what the time is,tell_time
+I need to know the time please,tell_time
+time,tell_time
+what is the time,tell_time
+tell time,tell_time
+time please,tell_time
+What's today's date,tell_date
+Can you tell me the date today,tell_date
+What is the current date,tell_date
+Please provide today's date,tell_date
+I'd like to know the date today,tell_date
+Could you tell me the date,tell_date
+What's the date today,tell_date
+What's the date right now,tell_date
+Do you know what today's date is,tell_date
+What is today's date,tell_date
+Can you give me the date for today,tell_date
+What's the current date,tell_date
+Tell me the date today please,tell_date
+Can you inform me of today's date,tell_date
+May I have today's date,tell_date
+What is today's date please,tell_date
+Please tell me the date today,tell_date
+I'd appreciate knowing today's date,tell_date
+Could you provide today's date,tell_date
+What's the date as of today,tell_date
+Can you tell me what the date is today,tell_date
+What date is it today,tell_date
+Could you tell me today's date,tell_date
+Please let me know today's date,tell_date
+May I know the date today,tell_date
+What's today's date please,tell_date
+Can you tell me what today's date is,tell_date
+Do you have the date for today,tell_date
+I'd like to know what the date is today,tell_date
+What's the date on the calendar today,tell_date
+Could you give me today's date,tell_date
+Can you tell me today's date please,tell_date
+What is the date today,tell_date
+What date do we have today,tell_date
+May I know today's date please,tell_date
+Can you provide me with today's date,tell_date
+What is the date as of today,tell_date
+Please give me today's date,tell_date
+What day of the month is it today,tell_date
+What's the date of today,tell_date
+What is the date right now,tell_date
+Can you inform me of the date today,tell_date
+I'd like to know the current date,tell_date
+Could you tell me the current date,tell_date
+Please tell me what today's date is,tell_date
+Can you tell me today's calendar date,tell_date
+What's today's calendar date,tell_date
+Can you provide the date today,tell_date
+What's the official date today,tell_date
+I'd like to know the official date today,tell_date
+Could you tell me the official date,tell_date
+What is the exact date today,tell_date
+What is the exact date right now,tell_date
+Please give me the exact date today,tell_date
+What's the precise date today,tell_date
+I'd like to know the precise date today,tell_date
+Could you tell me the precise date,tell_date
+Can you tell me the exact date today,tell_date
+What's today's exact date,tell_date
+Could you provide the exact date today,tell_date
+May I know the exact date today,tell_date
+What is the full date today,tell_date
+What's today's full date,tell_date
+Could you tell me the full date today,tell_date
+Can you provide the full date today,tell_date
+I'd like to know the full date today,tell_date
+Please give me the full date today,tell_date
+What's the full date right now,tell_date
+What date is it as of today,tell_date
+What's the date on today's calendar,tell_date
+Please tell me the date right now,tell_date
+What is today's full date,tell_date
+Can you tell me the full date as of today,tell_date
+Could you inform me of the date today,tell_date
+Please provide me with the date today,tell_date
+Can you give me today's full date,tell_date
+What's the date for today,tell_date
+Could you let me know today's date,tell_date
+What is today's calendar date,tell_date
+Can you give me the current date,tell_date
+What's the current calendar date,tell_date
+What day is it today,tell_date
+Please let me know the date today,tell_date
+Can you tell me what day it is today,tell_date
+What's today's date and day,tell_date
+Could you tell me what day and date it is today,tell_date
+May I know the day and date today,tell_date
+What's the day and date today,tell_date
+Can you inform me of today's day and date,tell_date
+What's today's exact date and day,tell_date
+What day and date do we have today,tell_date
+Please tell me today's day and date,tell_date
+I'd like to know today's exact date and day,tell_date
+Can you provide today's day and date,tell_date
+What's the exact date and day today,tell_date
+Could you give me today's day and date,tell_date
+May I have the date and day today,tell_date
+What is the exact day and date today,tell_date
+Can you tell me the day and date right now,tell_date
+What is today's day and date,tell_date
+Could you tell me the day and date as of today,tell_date
+Please give me the exact day and date today,tell_date
+What's the full date and day today,tell_date
+I'd like to know the full date and day today,tell_date
+Could you provide me with the full date and day today,tell_date
+Can you give me the full date and day today,tell_date
+What's the date and day today,tell_date
+Could you tell me the full date and day as of today,tell_date
+Please tell me today's full date and day,tell_date
+May I know the full date and day today,tell_date
+What's the precise date and day today,tell_date
+Could you give me the precise date and day today,tell_date
+What is today's precise date and day,tell_date
+Can you tell me the precise date and day today,tell_date
+What date and day is it today,tell_date
+Please provide the precise date and day today,tell_date
+Could you inform me of the precise date and day today,tell_date
+What day of the month and date is it today,tell_date
+What's today's day and date on the calendar,tell_date
+Can you tell me today's day and date on the calendar,tell_date
+Could you provide the day and date today,tell_date
+I'd like to know today's day and date on the calendar,tell_date
+Please give me the day and date today,tell_date
+What's the official day and date today,tell_date
+Can you tell me the official day and date today,tell_date
+Could you give me the official day and date today,tell_date
+What is today's official day and date,tell_date
+What's the official date and day as of today,tell_date
+Please inform me of the official day and date today,tell_date
+Could you provide the official day and date today,tell_date
+Can you tell me today's official day and date,tell_date
+What's the date and day on today's calendar,tell_date
+What day and date do we have on the calendar today,tell_date
+Could you tell me the date and day as of today,tell_date
+Please let me know today's day and date,tell_date
+Can you inform me of the day and date right now,tell_date
+What's the current day and date today,tell_date
+What is the current day and date today,tell_date
+Please give me the current day and date today,tell_date
+I'd like to know the current day and date today,tell_date
+Can you tell me the day and date of today,tell_date
+What is the exact day and date right now,tell_date
+What's today's calendar date and day,tell_date
+Can you provide today's calendar date and day,tell_date
+Could you inform me of today's calendar date and day,tell_date
+What is today's calendar day and date,tell_date
+What's the day and date today on the calendar,tell_date
+Please tell me the calendar date and day today,tell_date
+What day and date is it on today's calendar,tell_date
+Can you give me the calendar date and day today,tell_date
+I'd like to know the calendar date and day today,tell_date
+Could you tell me the calendar day and date today,tell_date
+What day and date is it right now,tell_date
+Please provide the calendar date and day today,tell_date
+What is today's day and date on the calendar,tell_date
+Can you inform me of the calendar day and date today,tell_date
+What's the precise day and date on the calendar today,tell_date
+Please give me today's calendar day and date,tell_date
+Can you tell me the calendar date and day today,tell_date
+What's today's exact day and date on the calendar,tell_date
+What day and date is it on the calendar today,tell_date
+Could you give me the exact day and date today,tell_date
+What's today's day and calendar date,tell_date
+Please tell me the exact day and date on the calendar today,tell_date
+What is the day and calendar date today,tell_date
+Can you provide the exact day and date today,tell_date
+Could you inform me of the exact day and date today,tell_date
+What's the day and date as of today,tell_date
+Please tell me the day and date on the calendar today,tell_date
+What is the day and date today,tell_date
+Can you tell me the day and date of today on the calendar,tell_date
+What's the calendar date and day today,tell_date
+Could you tell me the day and date on the calendar today,tell_date
+Please give me the calendar date and day today,tell_date
+What day and date do we have on the calendar today,tell_date
+Can you inform me of the day and date today,tell_date
+tell date,tell_date
+what is the date,tell_date
+date,tell_date
