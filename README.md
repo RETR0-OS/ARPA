@@ -41,7 +41,7 @@ To start using ARPA, run the following command:
 python main.py
 ```
 
-##Contributing
+## Contributing
 We welcome contributions! Please follow these steps to contribute:
 
 1. Fork the repository.
