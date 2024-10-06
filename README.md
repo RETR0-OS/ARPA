@@ -58,6 +58,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - SpaCy
 - Scikit-learn
 - Pandas
-
-## Contact
-For any questions or suggestions, feel free to reach out to us at [your-email@example.com].
