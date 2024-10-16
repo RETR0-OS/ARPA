@@ -97,13 +97,12 @@ class W2Math(Skill):
         else:
             raw_expr = self.__replaceSimpleOperators__(raw_expr)
             raw_expr = self.__replaceSingleArgMaps__(raw_expr)
-            useless_words = ["what", "is", "solve", "calculate", "find", "compute"]
+            useless_words = ["what", "is", "solve", "calculate", "find", "compute", "?"]
             raw_expr = " ".join([x for x in raw_expr.split(" ") if x not in useless_words])
             try:
                 return eval(raw_expr)
             except Exception as e:
-                return raw_expr
-        # return ret_str
+                return "your expression evaluated to: \n" + raw_expr + "\n Maybe you should put brackets around the expression, and spaces around the operators."
 
     def run(self, raw_expression):
         self.parsed_expression = self.__processString__(raw_expression)

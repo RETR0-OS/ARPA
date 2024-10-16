@@ -8,7 +8,7 @@ class ShowHelp(Skill):
     def __init__(self):
         super(ShowHelp, self).__init__(trigger_intent = self.triggerIntent, skill_type=self.skillType)
 
-    def run(self):
+    def run(self, *params):
         help_message = '''
         ##### Help Menu #####
         This assistant is capable of the following tasks

@@ -96,17 +96,6 @@ class Assistant:
         command = numerize(str(command))
         return command
 
-        '''command = self.__nlp__(command)
-        numerizer_out = command._.numerize()
-        print(numerizer_out)
-        command = [x.text for x in command]
-        command = " ".join(command)
-        print(command)
-        for a in list(numerizer_out.keys()):
-            command = command.replace(str(a), numerizer_out[a])
-        print(command)
-        return command'''
-
     def __preprocessing__(self, command):
         filter_command = self.__removeStopWords__(command)
         filter_command = self.__numerizeText__(filter_command)
@@ -116,6 +105,9 @@ class Assistant:
     def __check_coded_commands__(query):
         if query == "login":
             return "login"
+        elif query == "exit":
+            print("Goodbye.")
+            exit()
         return None
 
     def takeCommand(self):
