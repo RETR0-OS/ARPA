@@ -6,6 +6,7 @@ class Skill(ABC):
 
     def __init__(self, trigger_intent, skill_type="public"):
         if trigger_intent is None:
+            print(trigger_intent)
             raise ValueError("trigger_intent cannot be none!")
         else:
             self.triggerIntent = trigger_intent

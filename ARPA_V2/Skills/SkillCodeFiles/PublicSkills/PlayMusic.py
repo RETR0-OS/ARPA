@@ -1,4 +1,4 @@
-from ARPA_V2.Skills.SkillCodeFiles.Skill import Skill
+from Skills.SkillCodeFiles.Skill import Skill
 from selenium import webdriver
 from chromedriver_py import binary_path
 from youtubesearchpython import VideosSearch as vidSearch
@@ -26,7 +26,7 @@ class PlayMusic(Skill):
 
     @staticmethod
     def sanitizeInput(raw_query):
-        raw_query = raw_query.split()
+        raw_query = raw_query.split(" ")
         redundancies = ["Play", "music", "tunes", "song", "beats"]
         processed_query = [x for x in raw_query if x not in redundancies]
         return " ".join(processed_query)
@@ -34,15 +34,13 @@ class PlayMusic(Skill):
     def run(self, search_string):
         option = webdriver.ChromeOptions()
         option.binary_location = self.brave_path
+        option.add_experimental_option('excludeSwitches', ['enable-logging'])
         option.add_experimental_option("detach", True)
-
         browser = webdriver.Chrome(service=self.driver_path, options=option)
-
-        query = self.sanitizeInput(search_string)
-
+        query = self.sanitizeInput(str(search_string))
+        #print(query)
         v_search = vidSearch(query, limit=1)
         link = v_search.result()["result"][0]["link"]
-
         try:
             browser.get(link)
             time.sleep(2)
@@ -52,8 +50,6 @@ class PlayMusic(Skill):
         except Exception as e:
             print("[!] An unidentified error occurred! Error message:\n")
             print(e)
-        finally:
-            browser.close()
 
     def endSkill(self):
         pass

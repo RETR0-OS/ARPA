@@ -1,8 +1,8 @@
-from ARPA_V2.Skills.SkillCodeFiles.Skill import Skill
+from Skills.SkillCodeFiles.Skill import Skill
 import random
 
 class IntroduceBot(Skill):
-    triggerIntent = "introduce_"
+    triggerIntent = "introduce_yourself"
     introduction = None
     skillType = "public"
 

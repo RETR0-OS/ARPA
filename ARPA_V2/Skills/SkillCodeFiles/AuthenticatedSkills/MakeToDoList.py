@@ -1,7 +1,7 @@
 from ARPA_V2.Skills.SkillCodeFiles.Skill import Skill
 import datetime
 import pickle
-from ARPA_V2.ARPAv2 import Assistant
+import settings
 
 class MakeToDoList(Skill):
 
@@ -12,8 +12,8 @@ class MakeToDoList(Skill):
     def __init__(self):
         super(MakeToDoList, self).__init__(trigger_intent=self.triggerIntent)
 
-        self.user = Assistant.currentUser
-        self.file = f"D:/ARPA/ARPA_V2/Skills/SkillCodeFiles/UserData/ToDoLists/{self.user}"
+        self.user = settings.CURRENT_USER
+        self.file = f"UserData/ToDoLists/{self.user}"
 
     @staticmethod
     def __getListItem__():

@@ -1,4 +1,4 @@
-from ARPA_V2.Skills.SkillCodeFiles.Skill import Skill
+from Skills.SkillCodeFiles.Skill import Skill
 import math
 import re
 
@@ -97,6 +97,8 @@ class W2Math(Skill):
         else:
             raw_expr = self.__replaceSimpleOperators__(raw_expr)
             raw_expr = self.__replaceSingleArgMaps__(raw_expr)
+            useless_words = ["what", "is", "solve", "calculate", "find", "compute"]
+            raw_expr = " ".join([x for x in raw_expr.split(" ") if x not in useless_words])
             try:
                 return eval(raw_expr)
             except Exception as e:

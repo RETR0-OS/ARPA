@@ -1,4 +1,4 @@
-from ARPA_V2.Skills.SkillCodeFiles.Skill import Skill
+from Skills.SkillCodeFiles.Skill import Skill
 
 class SayGoodBye(Skill):
     triggerIntent = "exit"

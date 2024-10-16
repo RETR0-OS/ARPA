@@ -12,20 +12,22 @@ import pyautogui
 import spacy
 import datetime
 import pandas as pd
-import numerizer
+from numerizer import numerize
 from Skills.skillManager import SkillManager
+import settings
+import warnings
 
 
 class Assistant:
-    name = None
     intentClassifier = None
     windowStack = []
-    currentUser = None
-    registeredUsers = None
     query = None
     skillManager = None
-
-    __nlp__ = spacy.load("en_core_web_sm")
+    '''if spacy.require_gpu():
+        __nlp__ = spacy.load("en_core_web_trf")
+    else:
+        __nlp__ = spacy.load("en_web_core_lg")'''
+    __nlp__ = spacy.load("en_core_web_lg")
     __skillCodes__ = None
 
     def __updateWindows__(self):
@@ -33,7 +35,8 @@ class Assistant:
         self.windowStack = [x.title for x in windows if x.title not in ['', 'Mail', 'Add an account', 'Settings', 'Windows Input Experience', 'Program Manager']]
 
     def __init__(self, assistant_name):
-        self.name = assistant_name
+        warnings.filterwarnings("ignore", category=UserWarning)
+        settings.ASSISTANT_NAME = assistant_name
         self.skillManager = SkillManager()
 
         try:
@@ -47,10 +50,10 @@ class Assistant:
 
         try:
             f = open("Data/RegisteredUsers.dat", "rb")
-            self.registeredUsers = pickle.load(f)
+            settings.REGISTERED_USER_PROFILES = pickle.load(f)
             f.close()
         except FileNotFoundError:
-            self.registeredUsers = None
+            settings.REGISTERED_USER_PROFILES = None
 
         ##load up windows
         self.__updateWindows__()
@@ -74,7 +77,7 @@ class Assistant:
                            "of"}
         self.__nlp__.Defaults.stop_words -= IMPORTANT_WORDS
         days = {0: "Monday", 1: "Tuesday", 2: "Wednesday", 3: "Thursday", 4: "Friday", 5: "Saturday", 6: "Sunday"}
-        print(f"Greetings. I am {self.name}, your personal assistant.")
+        print(f"Greetings. I am {settings.ASSISTANT_NAME}, your personal assistant.")
         print(f"It is {days[datetime.date.today().weekday()]}, {datetime.date.today()}")
         print(f"It is now {datetime.datetime.now().strftime('%H:%M')}")
         print("What would you like to do today?")
@@ -90,31 +93,48 @@ class Assistant:
         return command
 
     def __numerizeText__(self, command):
-        command = self.__nlp__(" ".join(command))
+        command = numerize(str(command))
+        return command
+
+        '''command = self.__nlp__(command)
         numerizer_out = command._.numerize()
+        print(numerizer_out)
         command = [x.text for x in command]
         command = " ".join(command)
+        print(command)
         for a in list(numerizer_out.keys()):
             command = command.replace(str(a), numerizer_out[a])
-        return command
+        print(command)
+        return command'''
 
     def __preprocessing__(self, command):
         filter_command = self.__removeStopWords__(command)
         filter_command = self.__numerizeText__(filter_command)
         return filter_command
 
+    @staticmethod
+    def __check_coded_commands__(query):
+        if query == "login":
+            return "login"
+        return None
+
     def takeCommand(self):
         query = input(">> ")
         processed_query = self.__preprocessing__(query)
-        intent = self.__getIntent__(query)
+        intent = self.__check_coded_commands__(query)
+        if intent is None:
+            intent = self.__getIntent__(query).strip()
         if intent == "calculate":
-            self.skillManager.executeCommand(intent, query)
+            self.skillManager.executeCommand(intent, processed_query)
+        elif intent == "exit":
+            print("Goodbye.")
+            exit()
         else:
             self.skillManager.executeCommand(intent, processed_query)
 
 
 ##Tests
-'''assistant = Assistant("ARPA")
-assistant.skillManager.executeCommand("set_timer", 5)
+assistant = Assistant("ARPA")
+#assistant.skillManager.executeCommand("set_timer", 5)
 while True:
-    assistant.takeCommand()'''
+    assistant.takeCommand()

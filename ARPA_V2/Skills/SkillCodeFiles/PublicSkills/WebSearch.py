@@ -1,4 +1,4 @@
-from ARPA_V2.Skills.SkillCodeFiles.Skill import Skill
+from Skills.SkillCodeFiles.Skill import Skill
 from selenium import webdriver
 from chromedriver_py import binary_path
 from selenium.webdriver.chrome.service import Service

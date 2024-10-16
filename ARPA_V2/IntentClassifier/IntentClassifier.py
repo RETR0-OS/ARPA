@@ -18,14 +18,14 @@ def spacy_tokenizer(text):
     return ' '.join(tokens)
 
 def save_model():
-    f = open("D:/ARPA/ARPA_V2/IntentClassifier/IntentClassifier.dat", "wb")
+    f = open("IntentClassifier/IntentClassifier.dat", "wb")
     pickle.dump(pipeline, f)
     #return pipeline
 
 def train_model():
     # Load data from CSV
     global pipeline
-    data = pd.read_csv("D:/ARPA/ARPA/IntentClassifiers/train_data.csv")
+    data = pd.read_csv("IntentClassifier/train_data.csv")
 
     # Assuming 'Prompt' is your feature column and 'Intent' is your target column
     x_train = data['Prompt'].values
