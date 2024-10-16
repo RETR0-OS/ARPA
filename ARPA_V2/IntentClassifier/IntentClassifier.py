@@ -7,8 +7,10 @@ import warnings
 import pickle
 
 warnings.filterwarnings("ignore")
-# Load SpaCy model
-nlp = spacy.load("en_core_web_lg")
+if spacy.require_gpu():
+    nlp = spacy.load("en_core_web_trf")
+else:
+    nlp = spacy.load("en_core_web_lg")
 pipeline = None
 
 # Define preprocessing function using SpaCy
